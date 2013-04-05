@@ -1,0 +1,28 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/start_stop"
+        android:title="@string/start">
+    </item>
+    <!--
+         <item
+        android:id="@+id/test"
+        android:title="@string/test">
+    </item>
+    -->
+    <!--
+         <item
+        android:id="@+id/panic"
+        android:title="@string/panic">
+    </item>
+    <item
+        android:id="@+id/help"
+        android:title="@string/help"/>
+    <item
+        android:id="@+id/settings"
+        android:title="@string/settings">
+    -->
+    <item>
+    </item>
+
+</menu>
